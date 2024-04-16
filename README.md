@@ -1,4 +1,4 @@
-# ai-copilot-educator : AI Copilot for Storytelling and Scenarios - Open Source Project
+# AI Copilot for Storytelling and Scenarios
 
 ## Mission
 Our mission is to empower teachers and schools with accurate, unbiased, and factual information by leveraging the power of AI.
