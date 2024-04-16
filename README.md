@@ -5,11 +5,12 @@ Our mission is to empower teachers and schools with accurate, unbiased, and fact
 
 
 ## Why AI Copilot Educator ?
- TODO
-
+ AI Copilot Educator offers Teachers and educators a powerful toolkit to enhance teaching and learning experiences, driving efficiency, adaptability, innovation, collaboration, and personalization in the educational process. With AI Copilot Educator, educators can unleash their creativity, engage their students, and inspire lifelong learning.
+ 
 ## Features
 Our AI copilot offers several features to help you create compelling stories and scenarios.
-- Instructional Objectives: The AI copilot helps you set clear instructional objectives, prioritize teaching goals, and organize problem chains and activities to achieve them.- Scenario Creation: The AI copilot can also assist in creating scenarios for learning, such as virtual simulations, role-playing exercises, or interactive cases.
+- Instructional Objectives: The AI copilot helps you set clear instructional objectives, prioritize teaching goals, and organize problem chains and activities to achieve them.
+- Scenario Creation: The AI copilot can also assist in creating scenarios for learning, such as project based learning, Problem based learning, role-playing exercises, or interactive cases.
 - Personalization: Our AI copilot can adapt to the needs of your learners by generating stories and scenarios tailored to their interests, skills, and learning styles.
 - Collaboration: The AI copilot allows you to collaborate with other educators, trainers, or content creators to generate stories and scenarios together.
 - Customization: You can customize the AI copilot's algorithms and training data to suit your specific needs and preferences.
