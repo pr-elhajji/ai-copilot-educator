@@ -29,9 +29,9 @@ Please see [here](https://github.com/pr-elhajji/ai-copilot-educator/wiki) for fu
 - Reference (full API docs)
 
 ## ⚙️ Getting Started
-> **Step 0**
-> **Step 1**
-> **Step 3**
+### **Step 0**
+### **Step 1**
+### **Step 3**
 
 ## 🚀Contributing
 We welcome contributions to the AI copilot project! If you're interested in collaborating on the codebase, please open a pull request or submit an issue ticket through GitHub.
